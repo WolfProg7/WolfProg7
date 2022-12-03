@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @WolfProg7
-- 👀 I’m interested in python and batch
-- 🌱 I’m currently learning batch
+- 👀 I’m interested in Python and Batch
+- 🌱 I’m currently learning Python
